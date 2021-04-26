@@ -1,4 +1,4 @@
-# midnight-wolf
+# midnight-wolf logo:
 <div align="center">
     <img src="logo.png"</img> 
 </div>
